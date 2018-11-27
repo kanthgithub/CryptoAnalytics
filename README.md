@@ -2,18 +2,14 @@
 
 - CryptoAnalytics is an API to get basic analytic data:
 
-  Crypto market Data for custom Date Range, Week, Date
-  Rolling/Moving Average
+  - Crypto market Data for custom Date Range, Week, Date
+  - Rolling/Moving Average
+  - Upcoming Feature: Decision making for Buy/Sell/Hold based on account position and moving-Average variations 
 
-   ```
-  Upcoming Feature:
 
-  Decision making for Buy/Sell/Hold based on account position and moving-Average variations 
-  ```
+## Project has 2 components built on Command Query Seggregation & Single Responsibility priciple:
 
-  Project has 2 components built on Command Query Seggregation & Single Responsibility priciple:
-
-  Command component:
+  ## Command component:
 
   1. Pull Based extraction of historic crypto data from GDAX / Coinbase API
   2. Store the JSON data in Elastic-Search engine using spring-boot-jpa for elasticSearch
@@ -23,9 +19,9 @@
 
      - Git Project page: https://github.com/kanthgithub/CryptoStreamLoader
 
-  API / Query Component:
+  ## API / Query Component:
 
-   # Step-2: Setup and Run CryptoStreamAPI Project:
+   # Setup and Run CryptoStreamAPI Project:
 
       - Git Project Details: https://github.com/kanthgithub/CryptoStreamAPI
 
