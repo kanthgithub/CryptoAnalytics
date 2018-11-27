@@ -7,7 +7,7 @@
   - Upcoming Feature: Decision making for Buy/Sell/Hold based on account position and moving-Average variations 
 
 
-## Project has 2 components built on Command Query Seggregation & Single Responsibility priciple:
+ ### Project has 2 components built on Command Query Seggregation & Single Responsibility priciple:
 
   ## Command component:
 
