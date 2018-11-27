@@ -17,13 +17,13 @@
 
   #  Setup and Run CryptoStreamLoader Project:
 
-    https://github.com/kanthgithub/CryptoStreamLoader
+    [ElasticLoader](https://github.com/kanthgithub/CryptoStreamLoader)
 
   ## API / Query Component:
 
    # Setup and Run CryptoStreamAPI Project:
       
-    https://github.com/kanthgithub/CryptoStreamAPI
+    [API](https://github.com/kanthgithub/CryptoStreamAPI)
 
 
 ## Setup Instructions:
